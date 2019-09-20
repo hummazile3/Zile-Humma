@@ -1,4 +1,3 @@
-int main()
-  print ("helloworld. yep. 2")
+print("helloworld. yep. 2")
 
   
